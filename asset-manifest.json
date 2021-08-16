@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/whitelist-gh-pages/static/css/main.35b04435.chunk.css",
+    "main.js": "/whitelist-gh-pages/static/js/main.f11733db.chunk.js",
+    "main.js.map": "/whitelist-gh-pages/static/js/main.f11733db.chunk.js.map",
+    "runtime-main.js": "/whitelist-gh-pages/static/js/runtime-main.97dc1206.js",
+    "runtime-main.js.map": "/whitelist-gh-pages/static/js/runtime-main.97dc1206.js.map",
+    "static/css/2.818011ed.chunk.css": "/whitelist-gh-pages/static/css/2.818011ed.chunk.css",
+    "static/js/2.5e48688e.chunk.js": "/whitelist-gh-pages/static/js/2.5e48688e.chunk.js",
+    "static/js/2.5e48688e.chunk.js.map": "/whitelist-gh-pages/static/js/2.5e48688e.chunk.js.map",
+    "index.html": "/whitelist-gh-pages/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/whitelist-gh-pages/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.35b04435.chunk.css.map": "/whitelist-gh-pages/static/css/main.35b04435.chunk.css.map",
+    "static/js/2.5e48688e.chunk.js.LICENSE.txt": "/whitelist-gh-pages/static/js/2.5e48688e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97dc1206.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.5e48688e.chunk.js",
+    "static/css/main.35b04435.chunk.css",
+    "static/js/main.f11733db.chunk.js"
+  ]
+}
